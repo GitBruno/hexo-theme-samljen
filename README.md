@@ -47,7 +47,7 @@ Configure plugin in `_config.yml`.
 ```yaml
 search:
   path: search.xml
-  field: post
+  field: all
   format: html
 ```
 

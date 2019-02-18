@@ -12,21 +12,21 @@ rss: /atom.xml
 
 # SNS config
 sns:
-  GitHub: /
-  RSS: /
-  
+  GitHub: //github.com/gitbruno
+  RSS: /atom.xml
+
 # Nav menu
 menu:
   Home: /
   Archives: /archives
 
-email: 
+email: hello@brunoherfst.com
 search: true
 
 # Home config
-home:
--
-  path: 
-  title: 
-  desc: 
-
+#home:
+#-
+#  path: /
+#  title: Books
+#  desc: 
+ 
