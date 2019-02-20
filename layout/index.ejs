@@ -65,17 +65,7 @@
   <%- 
     props.map(renderCard).join('')
   %>
-    <div class="site-title">
-      <a href="<%- url_for('/') %>">
-        <%=  config.title %>
-      </a>
-    </div>
   </div>
-  <% if (config.subtitle) { %>
-  <div class="subtitle">
-    <%= config.subtitle %>
-  </div>
-  <% } %>
 </div>
 
 <!--
